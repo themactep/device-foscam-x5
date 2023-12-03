@@ -7,7 +7,7 @@ Installing OpenIPC on [Foscam X5 and clones][1]
 - Acculenz R5
 - Assark X3E
 
-
+![Acculenz R5](images/acculenz-r5.webp)
 
 ### Flash OpenIPC to the camera.
 
